@@ -52,6 +52,7 @@ Gem::Specification.new do |s|
      "spec/acts_as_taggable_on/tags_helper_spec.rb",
      "spec/bm.rb",
      "spec/database.yml",
+     "spec/database.yml.sample",
      "spec/models.rb",
      "spec/schema.rb",
      "spec/spec_helper.rb"
